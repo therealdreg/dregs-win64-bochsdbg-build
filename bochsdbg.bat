@@ -9,4 +9,4 @@ bochs.exe
 del /F /Q *.lock
 del /F /Q bx_enh_dbg.ini
 echo press enter to re execute
-jmp loopez
+goto loopez
